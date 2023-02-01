@@ -1,0 +1,15 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "description": "Lab Test 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c0846324@mylambton.ca",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
